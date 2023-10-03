@@ -1,4 +1,7 @@
-# Weather-App-React-Native
+# Weather application (React-Native)
+
+<img width="160" alt="Снимок экрана 2023-10-03 в 02 37 13" src="https://github.com/yurashalya/Weather-Mobile-App/assets/25618300/51b3f435-9782-47df-ad55-dd46cb01ebec">
+
 
 ## Get Started
 
